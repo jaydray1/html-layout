@@ -1,0 +1,24 @@
+body {
+    background-color: #d8d8d8;
+}
+
+
+.top-bar {
+    background-color: #444444;
+    height: 100px;
+}
+
+.bottom-bar {
+    background-color: #222222;
+    height: 3em;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.whitey {
+    background-color: white;
+    height: 85vh;
+    width: 80%;
+    margin: 0 auto;
+
+}
