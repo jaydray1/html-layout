@@ -23,6 +23,8 @@
      background-color: white;
     height: 20vh;
     width:100%;
+    text-align: center;
+    padding: 60px;
 }
 .top {
     background-color: #D8D8D8;
